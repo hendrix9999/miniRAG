@@ -1,8 +1,10 @@
 # miniRAG — discute avec tes PDF
 
-Un petit programme qui répond à tes questions en se basant sur tes propres documents PDF
-(cours, contrats, notes...). Tout tourne **en local** : aucune clé d'API, aucune donnée envoyée
-sur internet.
+Bienvenue sur mon miniRAG
+
+J'ai codé ce petit assistant pour réviser mes cours à partir de mes slides :
+je lui pose mes questions et il répond en citant la page. Il peut aussi me générer des
+questions à choix multiples pour préparer mes examens. Tout tourne en local.
 
 ## Comment ça marche
 
