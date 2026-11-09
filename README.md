@@ -1,4 +1,4 @@
-# miniRAG — discute avec tes PDF
+# miniRAG  discute avec tes PDF
 
 Bienvenue sur mon miniRAG
 
